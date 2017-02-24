@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: KillerInstinct
 permalink: /docs/installation/
 ---
 
